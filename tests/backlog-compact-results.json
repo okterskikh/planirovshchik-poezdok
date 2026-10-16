@@ -1,0 +1,16 @@
+[
+  {
+    "channel": "chrome",
+    "previousHeight": 399,
+    "height": 279,
+    "reductionPercent": 30.075187969924812,
+    "weekRaisedPx": 120
+  },
+  {
+    "channel": "msedge",
+    "previousHeight": 399,
+    "height": 279,
+    "reductionPercent": 30.075187969924812,
+    "weekRaisedPx": 120
+  }
+]

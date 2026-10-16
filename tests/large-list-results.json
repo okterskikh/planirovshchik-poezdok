@@ -1,0 +1,18 @@
+[
+  {
+    "channel": "chrome",
+    "count": 1000,
+    "lastCard": "passed",
+    "bulk1000": "passed",
+    "search": "passed",
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "count": 1000,
+    "lastCard": "passed",
+    "bulk1000": "passed",
+    "search": "passed",
+    "errors": []
+  }
+]

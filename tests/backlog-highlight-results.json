@@ -1,0 +1,30 @@
+[
+  {
+    "channel": "chrome",
+    "width": 1440,
+    "headerShift": 0,
+    "sticky": "passed",
+    "toggle": "passed"
+  },
+  {
+    "channel": "chrome",
+    "width": 360,
+    "headerShift": 0,
+    "sticky": "passed",
+    "toggle": "passed"
+  },
+  {
+    "channel": "msedge",
+    "width": 1440,
+    "headerShift": 0,
+    "sticky": "passed",
+    "toggle": "passed"
+  },
+  {
+    "channel": "msedge",
+    "width": 360,
+    "headerShift": 0,
+    "sticky": "passed",
+    "toggle": "passed"
+  }
+]

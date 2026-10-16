@@ -1,0 +1,24 @@
+[
+  {
+    "channel": "chrome",
+    "version": "155.0.8059.40",
+    "anonymousAccess": true,
+    "completedNoteSave": true,
+    "reload": true,
+    "browserRestart": true,
+    "reopenEditor": true,
+    "physicalIPhone": false,
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "version": "155.0.4283.45",
+    "anonymousAccess": true,
+    "completedNoteSave": true,
+    "reload": true,
+    "browserRestart": true,
+    "reopenEditor": true,
+    "physicalIPhone": false,
+    "errors": []
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "url": "http://127.0.0.1:4173/",
+  "browser": "155.0.8059.40",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "css": "passed",
+  "navigation": "passed",
+  "jsonImport": "passed",
+  "persistence": "passed",
+  "narrow": "passed",
+  "errors": [],
+  "physicalIPhone": false
+}

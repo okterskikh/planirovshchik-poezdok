@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "channel": "chrome",
+      "width": 1920,
+      "columns": 5,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "chrome",
+      "width": 1440,
+      "columns": 4,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "chrome",
+      "width": 1280,
+      "columns": 4,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "chrome",
+      "width": 1000,
+      "columns": 2,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "chrome",
+      "width": 360,
+      "columns": 1,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "msedge",
+      "width": 1920,
+      "columns": 5,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "msedge",
+      "width": 1440,
+      "columns": 4,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "msedge",
+      "width": 1280,
+      "columns": 4,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "msedge",
+      "width": 1000,
+      "columns": 2,
+      "overflow": false,
+      "cards": 12
+    },
+    {
+      "channel": "msedge",
+      "width": 360,
+      "columns": 1,
+      "overflow": false,
+      "cards": 12
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "channel": "chrome",
+    "version": "155.0.8059.40",
+    "pickerWithoutTypeFilter": true,
+    "badFileRejected": true,
+    "newSchemaRejected": true,
+    "unknownMimeAccepted": true,
+    "confirmationRequired": true,
+    "downloadAndTxtRestore": true,
+    "persistence": true,
+    "physicalIPhone": false,
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "version": "155.0.4283.45",
+    "pickerWithoutTypeFilter": true,
+    "badFileRejected": true,
+    "newSchemaRejected": true,
+    "unknownMimeAccepted": true,
+    "confirmationRequired": true,
+    "downloadAndTxtRestore": true,
+    "persistence": true,
+    "physicalIPhone": false,
+    "errors": []
+  }
+]

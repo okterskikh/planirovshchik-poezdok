@@ -1,0 +1,38 @@
+[
+  {
+    "channel": "chrome",
+    "version": "155.0.8059.40",
+    "url": "http://127.0.0.1:4173/",
+    "checks": [
+      "day metadata",
+      "day control bounds at 1366/991/390",
+      "week compact card bounds",
+      "single button and undo",
+      "trip button and undo",
+      "native drag single and reload",
+      "empty trip disappears and undo",
+      "trip drop preserves data and other tasks",
+      "completed task rejects entire drop",
+      "write failure retains saved data"
+    ],
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "version": "155.0.4283.45",
+    "url": "http://127.0.0.1:4173/",
+    "checks": [
+      "day metadata",
+      "day control bounds at 1366/991/390",
+      "week compact card bounds",
+      "single button and undo",
+      "trip button and undo",
+      "native drag single and reload",
+      "empty trip disappears and undo",
+      "trip drop preserves data and other tasks",
+      "completed task rejects entire drop",
+      "write failure retains saved data"
+    ],
+    "errors": []
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "channel": "chrome",
+    "version": "155.0.8059.40",
+    "sidebarRight": 285,
+    "calendarLeft": 338,
+    "calendarTop": 351.484375,
+    "groupDrag": "passed",
+    "navigation": "passed",
+    "reload": "passed",
+    "narrow": "passed",
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "version": "155.0.4283.45",
+    "sidebarRight": 285,
+    "calendarLeft": 338,
+    "calendarTop": 351.484375,
+    "groupDrag": "passed",
+    "navigation": "passed",
+    "reload": "passed",
+    "narrow": "passed",
+    "errors": []
+  }
+]
