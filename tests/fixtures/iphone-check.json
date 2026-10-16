@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "workspaceId": "e3f0a01d-90a4-43ee-8c9b-ad5bd3794f68",
+  "revision": 0,
+  "tasks": [
+    {
+      "id": "TASK-000001",
+      "source": {
+        "createdBy": "Сотрудник А",
+        "createdDate": "2026-10-01",
+        "client": "Клиент А",
+        "documentNumber": "001",
+        "destinationId": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+        "description": "Подать заявление",
+        "priority": "normal"
+      },
+      "plannedDate": null,
+      "firstPlannedDate": null,
+      "documentsReady": false,
+      "localNote": "",
+      "result": {
+        "outcome": "none",
+        "date": null,
+        "comment": ""
+      },
+      "lastCsvResult": {
+        "outcome": "none",
+        "date": null,
+        "comment": ""
+      },
+      "history": [
+        {
+          "id": "86a379e5-b726-41b2-ad13-d30e38e49681",
+          "at": "2026-10-15T20:11:49.259Z",
+          "type": "import-new",
+          "changes": {
+            "source": {
+              "createdBy": "Сотрудник А",
+              "createdDate": "2026-10-01",
+              "client": "Клиент А",
+              "documentNumber": "001",
+              "destinationId": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+              "description": "Подать заявление",
+              "priority": "normal"
+            },
+            "result": {
+              "outcome": "none",
+              "date": null,
+              "comment": ""
+            }
+          }
+        }
+      ],
+      "lastConfirmedExportResult": null
+    },
+    {
+      "id": "TASK-000002",
+      "source": {
+        "createdBy": "Сотрудник Б",
+        "createdDate": "2026-10-01",
+        "client": "Клиент Б",
+        "documentNumber": "ФС № 2",
+        "destinationId": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+        "description": "Передать \"оригинал\"; получить отметку",
+        "priority": "high"
+      },
+      "plannedDate": null,
+      "firstPlannedDate": null,
+      "documentsReady": false,
+      "localNote": "",
+      "result": {
+        "outcome": "none",
+        "date": null,
+        "comment": ""
+      },
+      "lastCsvResult": {
+        "outcome": "none",
+        "date": null,
+        "comment": ""
+      },
+      "history": [
+        {
+          "id": "50c9b2d9-f83e-4c54-a083-5ffd98894442",
+          "at": "2026-10-15T20:11:49.262Z",
+          "type": "import-new",
+          "changes": {
+            "source": {
+              "createdBy": "Сотрудник Б",
+              "createdDate": "2026-10-01",
+              "client": "Клиент Б",
+              "documentNumber": "ФС № 2",
+              "destinationId": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+              "description": "Передать \"оригинал\"; получить отметку",
+              "priority": "high"
+            },
+            "result": {
+              "outcome": "none",
+              "date": null,
+              "comment": ""
+            }
+          }
+        }
+      ],
+      "lastConfirmedExportResult": null
+    },
+    {
+      "id": "TASK-000003",
+      "source": {
+        "createdBy": "Сотрудник А",
+        "createdDate": "2026-10-02",
+        "client": "Клиент В",
+        "documentNumber": "003",
+        "destinationId": "place-af533a9f-8070-48bf-9453-c74906d6e326",
+        "description": "Передать документы",
+        "priority": "urgent"
+      },
+      "plannedDate": null,
+      "firstPlannedDate": null,
+      "documentsReady": false,
+      "localNote": "",
+      "result": {
+        "outcome": "completed",
+        "date": "2026-10-05",
+        "comment": "Принято"
+      },
+      "lastCsvResult": {
+        "outcome": "completed",
+        "date": "2026-10-05",
+        "comment": "Принято"
+      },
+      "history": [
+        {
+          "id": "08a698bc-3941-46a4-99cc-6fac6da431e2",
+          "at": "2026-10-15T20:11:49.262Z",
+          "type": "import-new",
+          "changes": {
+            "source": {
+              "createdBy": "Сотрудник А",
+              "createdDate": "2026-10-02",
+              "client": "Клиент В",
+              "documentNumber": "003",
+              "destinationId": "place-af533a9f-8070-48bf-9453-c74906d6e326",
+              "description": "Передать документы",
+              "priority": "urgent"
+            },
+            "result": {
+              "outcome": "completed",
+              "date": "2026-10-05",
+              "comment": "Принято"
+            }
+          }
+        }
+      ],
+      "lastConfirmedExportResult": null
+    }
+  ],
+  "destinations": [
+    {
+      "id": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+      "name": "Суд А",
+      "metro": "",
+      "address": "",
+      "location": "",
+      "aliases": []
+    },
+    {
+      "id": "place-af533a9f-8070-48bf-9453-c74906d6e326",
+      "name": "ОСП Б",
+      "metro": "",
+      "address": "",
+      "location": "",
+      "aliases": []
+    }
+  ],
+  "dayOrders": {},
+  "destinationAliases": {
+    "суд а": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+    "осп б": "place-af533a9f-8070-48bf-9453-c74906d6e326"
+  },
+  "importMappings": {},
+  "excludedDates": [],
+  "lastConfirmedResultsExport": null,
+  "lastBackupExport": null,
+  "lastImport": {
+    "at": "2026-10-15T20:11:49.262Z",
+    "type": "tasks",
+    "entries": [
+      {
+        "kind": "place-new",
+        "id": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+        "before": null,
+        "after": {
+          "id": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+          "name": "Суд А",
+          "metro": "",
+          "address": "",
+          "location": "",
+          "aliases": []
+        },
+        "label": "Суд А"
+      },
+      {
+        "kind": "new",
+        "id": "TASK-000001",
+        "before": null,
+        "after": {
+          "source": {
+            "createdBy": "Сотрудник А",
+            "createdDate": "2026-10-01",
+            "client": "Клиент А",
+            "documentNumber": "001",
+            "destinationId": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+            "description": "Подать заявление",
+            "priority": "normal"
+          },
+          "result": {
+            "outcome": "none",
+            "date": null,
+            "comment": ""
+          }
+        },
+        "label": "Клиент А"
+      },
+      {
+        "kind": "new",
+        "id": "TASK-000002",
+        "before": null,
+        "after": {
+          "source": {
+            "createdBy": "Сотрудник Б",
+            "createdDate": "2026-10-01",
+            "client": "Клиент Б",
+            "documentNumber": "ФС № 2",
+            "destinationId": "place-229f0d3f-322c-4ba6-b90f-3282c1a0b4a7",
+            "description": "Передать \"оригинал\"; получить отметку",
+            "priority": "high"
+          },
+          "result": {
+            "outcome": "none",
+            "date": null,
+            "comment": ""
+          }
+        },
+        "label": "Клиент Б"
+      },
+      {
+        "kind": "place-new",
+        "id": "place-af533a9f-8070-48bf-9453-c74906d6e326",
+        "before": null,
+        "after": {
+          "id": "place-af533a9f-8070-48bf-9453-c74906d6e326",
+          "name": "ОСП Б",
+          "metro": "",
+          "address": "",
+          "location": "",
+          "aliases": []
+        },
+        "label": "ОСП Б"
+      },
+      {
+        "kind": "new",
+        "id": "TASK-000003",
+        "before": null,
+        "after": {
+          "source": {
+            "createdBy": "Сотрудник А",
+            "createdDate": "2026-10-02",
+            "client": "Клиент В",
+            "documentNumber": "003",
+            "destinationId": "place-af533a9f-8070-48bf-9453-c74906d6e326",
+            "description": "Передать документы",
+            "priority": "urgent"
+          },
+          "result": {
+            "outcome": "completed",
+            "date": "2026-10-05",
+            "comment": "Принято"
+          }
+        },
+        "label": "Клиент В"
+      }
+    ],
+    "rowCount": 3,
+    "warnings": [],
+    "ignoredEmptyRows": 0
+  }
+}
