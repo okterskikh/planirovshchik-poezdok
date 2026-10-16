@@ -1,0 +1,31 @@
+{
+  "checkedDate": "2026-10-16",
+  "repository": "https://github.com/okterskikh/planirovshchik-poezdok",
+  "site": "https://okterskikh.github.io/planirovshchik-poezdok/",
+  "branch": "main",
+  "directory": "/",
+  "localFeatureCommit": "e3160e9",
+  "files": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "matchesLocalIgnoringCRLF": true,
+      "sha256": "4195610556bc1e95fcfe89de30489fa675c8373b806dc7a7e527f8e099bc9944"
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "matchesLocalIgnoringCRLF": true,
+      "sha256": "b6170cbd51c0ea055920f89e94c9431c34fdb80bee47d20abecec90457785e1c"
+    },
+    {
+      "file": "script.js",
+      "status": 200,
+      "matchesLocalIgnoringCRLF": true,
+      "sha256": "5bb6791887f0703f4f5a8585646446fabb5d265fc84dc1457e9078624739e971"
+    }
+  ],
+  "coreTestsPassed": 67,
+  "browserScenariosPassed": 20,
+  "realIPhoneTested": false
+}
