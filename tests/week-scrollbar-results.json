@@ -1,0 +1,20 @@
+[
+  {
+    "channel": "chrome",
+    "laptop": "passed",
+    "twoWaySync": "passed",
+    "keyboard": "passed",
+    "sticky": "passed",
+    "narrowLaptop": "passed",
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "laptop": "passed",
+    "twoWaySync": "passed",
+    "keyboard": "passed",
+    "sticky": "passed",
+    "narrowLaptop": "passed",
+    "errors": []
+  }
+]

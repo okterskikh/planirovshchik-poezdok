@@ -1,0 +1,122 @@
+[
+  {
+    "channel": "chrome",
+    "width": 1440,
+    "date": "2026-10-12",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "chrome",
+    "width": 1440,
+    "date": "2026-10-15",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "chrome",
+    "width": 1440,
+    "date": "2026-10-18",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "chrome",
+    "width": 360,
+    "date": "2026-10-12",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "chrome",
+    "width": 360,
+    "date": "2026-10-15",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "chrome",
+    "width": 360,
+    "date": "2026-10-18",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "msedge",
+    "width": 1440,
+    "date": "2026-10-12",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "msedge",
+    "width": 1440,
+    "date": "2026-10-15",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "msedge",
+    "width": 1440,
+    "date": "2026-10-18",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "msedge",
+    "width": 360,
+    "date": "2026-10-12",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "msedge",
+    "width": 360,
+    "date": "2026-10-15",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  },
+  {
+    "channel": "msedge",
+    "width": 360,
+    "date": "2026-10-18",
+    "selected": 230,
+    "other": 205,
+    "delta": 0,
+    "height": 250,
+    "overflow": false
+  }
+]

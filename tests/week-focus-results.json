@@ -1,0 +1,210 @@
+[
+  {
+    "channel": "chrome",
+    "version": "155.0.8059.40",
+    "checks": [
+      {
+        "width": 460,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 380,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 380,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 380,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      }
+    ],
+    "selectionAndDrag": "passed",
+    "errors": []
+  },
+  {
+    "channel": "msedge",
+    "version": "155.0.4283.45",
+    "checks": [
+      {
+        "width": 460,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 460,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 380,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 380,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 380,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "date": "2026-10-12",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "date": "2026-10-15",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "date": "2026-10-18",
+        "delta": 0,
+        "other": 205,
+        "count": 7,
+        "overflow": false
+      }
+    ],
+    "selectionAndDrag": "passed",
+    "errors": []
+  }
+]

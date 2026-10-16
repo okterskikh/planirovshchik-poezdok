@@ -1,0 +1,46 @@
+[
+  {
+    "file": "tests\\step4-day-chrome.pdf",
+    "pages": 1,
+    "tail_present": false,
+    "size": [
+      0,
+      0,
+      594.95996,
+      841.91998
+    ]
+  },
+  {
+    "file": "tests\\step4-day-msedge.pdf",
+    "pages": 1,
+    "tail_present": false,
+    "size": [
+      0,
+      0,
+      594.95996,
+      841.91998
+    ]
+  },
+  {
+    "file": "tests\\step4-long-chrome.pdf",
+    "pages": 6,
+    "tail_present": true,
+    "size": [
+      0,
+      0,
+      594.95996,
+      841.91998
+    ]
+  },
+  {
+    "file": "tests\\step4-long-msedge.pdf",
+    "pages": 6,
+    "tail_present": true,
+    "size": [
+      0,
+      0,
+      594.95996,
+      841.91998
+    ]
+  }
+]
